@@ -1,0 +1,3 @@
+let square x = x * x
+
+printfn "%A" (square 10) // 100
